@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TexDetective</string>
+    <string name="history">History</string>
+    <string name="en">English</string>
+    <string name="cn">Chinese</string>
+    <string name="jp">Japanese</string>
+    <string name="kr">Korean</string>
+    <string name="history_description">Recent detection history</string>
+    <string name="add_photo_description">Add photo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="choose_from_gallery">Choose pictures from gallery</string>
+    <string name="take_a_photo">Take a picture</string>
+    <string name="invalid_image_error_message">Invalid Image Format</string>
+    <string name="image_process_success">Text Detection Complete!</string>
+    <string name="image_process_failed">Text Detection Failed!</string>
+    <string name="test">Test</string>
+</resources>

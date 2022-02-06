@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="add_photo">
+        <item>@string/choose_from_gallery</item>
+        <item>@string/take_a_photo</item>
+        <item>@string/cancel</item>
+    </array>
+</resources>
